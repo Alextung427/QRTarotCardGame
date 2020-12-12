@@ -2,7 +2,7 @@ Before you begin, make sure to install the following dependencies from the termi
 if you dont already have it installed.
 
 You dont need the QRGenerator to play the game. We've included it in the repository so that if you are interested in making
-your own QR codeyou can use the QRGenerator to make any card you like.
+your own QR code you can use it to make any card you like.
 
 Copy and paste the following codes, line by line into you terminal/command prompt to install the dependencies required:
 pip install pyzbar
