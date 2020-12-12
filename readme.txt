@@ -1,10 +1,14 @@
 Before you begin, make sure to install the following dependencies from the terminal/ command prompt 
 if you dont already have it installed.
 
+You dont need the QRGenerator to play the game. We've included it in the repository so that if you are interested in making
+your own QR codeyou can use the QRGenerator to make any card you like.
+
 Copy and paste the following codes, line by line into you terminal/command prompt to install the dependencies required:
 pip install pyzbar
 pip install pyttsx3
 pip install opencv-python
+pip install PyQRCode (for QRGenerator)
 
 You may also have to download pywin32 if you are on windows and are having issues with the speak buttons not working. 
 I downloaded pywin32-228.win32-py3.8.exe from 
